@@ -1,9 +1,10 @@
 import React from 'react'
 import { Card, Icon, Image } from 'semantic-ui-react'
+import { LazyLoadComponent } from 'react-lazy-load-image-component';
 
 const UnicornCard = (props) => (
   <Card>
-    <Image src={'../../card_images/' + props.img} wrapped ui={false} />
+    <LazyLoadComponent><Image src={'../../card_images/' + props.img} wrapped ui={false} /></LazyLoadComponent>
     <Card.Content>
       <Card.Header>{props.name}</Card.Header>
       <Card.Meta>{props.type} / {props.deck} / {props.quantity}</Card.Meta>

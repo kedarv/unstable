@@ -3,7 +3,7 @@ import './App.css';
 import cardData from '../../data.json';
 import UnicornCard from '../UnicornCard/UnicornCard';
 import 'semantic-ui-css/semantic.min.css'
-import { Card } from 'semantic-ui-react'
+import { Grid, Image, Segment } from 'semantic-ui-react'
 
 function App() {
   return (
@@ -15,9 +15,9 @@ function App() {
           </div>
         </div>
       </form>
-      <Card.Group itemsPerRow={4}>
-       {cardData.map((object, i) => <UnicornCard {...object} key={i}></UnicornCard>)}
-       </Card.Group>
+      <Grid stackable columns={4}>
+        {cardData.map((object, i) => <Grid.Column><UnicornCard {...object} key={i}></UnicornCard></Grid.Column>)}
+      </Grid>
     </div>
   );
 }

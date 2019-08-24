@@ -1,0 +1,666 @@
+[
+    {
+        "name": "Baby Unicorn (Pink)",
+        "img": "Baby_Unicorn_(Pink).png",
+        "text": "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+        "type": "Baby Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Baby Unicorn (Red)",
+        "img": "Baby_Unicorn_(Red).png",
+        "text": "(First Print): If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+        "type": "Baby Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Baby Unicorn (Orange)",
+        "img": "Baby_Unicorn_(Orange).png",
+        "text": "(First Print): If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+        "type": "Baby Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Baby Unicorn (Yellow)",
+        "img": "Baby_Unicorn_(Yellow).png",
+        "text": "(First Print): If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+        "type": "Baby Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Baby Unicorn (Green)",
+        "img": "Baby_Unicorn_(Green).png",
+        "text": "(First Print): If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+        "type": "Baby Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Baby Unicorn (Blue)",
+        "img": "Baby_Unicorn_(Blue).png",
+        "text": "(First Print): If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+        "type": "Baby Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Baby Unicorn (Purple)",
+        "img": "Baby_Unicorn_(Purple).png",
+        "text": "(First Print): If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+        "type": "Baby Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Baby Unicorn (Black)",
+        "img": "Baby_Unicorn_(Black).png",
+        "text": "(First Print): If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+        "type": "Baby Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Baby Unicorn (White)",
+        "img": "Baby_Unicorn_(White).png",
+        "text": "(First Print): If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+        "type": "Baby Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Baby Unicorn (Brown)",
+        "img": "Baby_Unicorn_(Brown).png",
+        "text": "(First Print): If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+        "type": "Baby Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Baby Unicorn (Rainbow)",
+        "img": "Baby_Unicorn_(Rainbow).png",
+        "text": "(First Print): If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+        "type": "Baby Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Baby Unicorn (Death)",
+        "img": "Baby_Unicorn_(Death).png",
+        "text": "(First Print): If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+        "type": "Baby Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Baby Narwhal",
+        "img": "Baby_Narwhal.png",
+        "text": "(First Print): If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
+        "type": "Baby Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Basic Unicorn (Red)",
+        "img": "Basic_Unicorn_(Red).png",
+        "text": "(First Print): Beards are like, so hot.",
+        "type": "Basic Unicorn",
+        "quantity": "3",
+        "deck": "Base"
+    },
+    {
+        "name": "Basic Unicorn (Orange)",
+        "img": "Basic_Unicorn_(Orange).png",
+        "text": "(First Print): Pumpkin spice is the pumpkin spice of life.",
+        "type": "Basic Unicorn",
+        "quantity": "3",
+        "deck": "Base"
+    },
+    {
+        "name": "Basic Unicorn (Yellow)",
+        "img": "Basic_Unicorn_(Yellow).png",
+        "text": "(First Print): Dance like nobody’s watching.",
+        "type": "Basic Unicorn",
+        "quantity": "3",
+        "deck": "Base"
+    },
+    {
+        "name": "Basic Unicorn (Green)",
+        "img": "Basic_Unicorn_(Green).png",
+        "text": "(First Print): Vinyl records and mixtapes only.",
+        "type": "Basic Unicorn",
+        "quantity": "3",
+        "deck": "Base"
+    },
+    {
+        "name": "Basic Unicorn (Blue)",
+        "img": "Basic_Unicorn_(Blue).png",
+        "text": "(First Print): Popped collars are for date nights only.",
+        "type": "Basic Unicorn",
+        "quantity": "3",
+        "deck": "Base"
+    },
+    {
+        "name": "Basic Unicorn (Indigo)",
+        "img": "Basic_Unicorn_(Indigo).png",
+        "text": "(First Print): 💖🙌💅💖💁‍♀️💁‍♀️😂😂😂",
+        "type": "Basic Unicorn",
+        "quantity": "3",
+        "deck": "Base"
+    },
+    {
+        "name": "Basic Unicorn (Purple)",
+        "img": "Basic_Unicorn_(Purple).png",
+        "text": "(First Print): #nomakeup #nofilter #sunnies #shameless #selfie #basic #TGIF #unicornhairdontcare",
+        "type": "Basic Unicorn",
+        "quantity": "3",
+        "deck": "Base"
+    },
+    {
+        "name": "Narwhal",
+        "img": "Narwhal.png",
+        "text": "(First Print): This card has no special powers, but it sure is cute!",
+        "type": "Basic Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Rhinocorn",
+        "img": "Rhinocorn.png",
+        "text": "(First Print): If this card is in your Stable at the beginning of your turn, you may DESTROY a Unicorn, then end your turn immediately.(Second Print): If this card is in your Stable at the beginning of your turn, you may DESTROY a Unicorn card. If you do, immediately skip your End of Turn phase.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Extremely Fertile Unicorn",
+        "img": "Extremely_Fertile_Unicorn.png",
+        "text": "(First Print): If this card is in your Stable at the beginning of your turn, you may DISCARD a card. If you do, bring a Baby Unicorn directly into your Stable from the Nursery.(Second Print): If this card is in your Stable at the beginning of your turn, you may DISCARD a card. If you do, bring a Baby Unicorn card from the Nursery directly into your Stable.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base, Rainbow Apocalypse, Apocalypse"
+    },
+    {
+        "name": "Magical Kittencorn",
+        "img": "Magical_Kittencorn.png",
+        "text": "(First Print): As long as this card is in your stable, it cannot be destroyed or affected by Magic cards.(Second Print): This card cannot be destroyed or otherwise affected by Magic Cards.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base, Rainbow Apocalypse, Apocalypse"
+    },
+    {
+        "name": "Stabby The Unicorn",
+        "img": "Stabby_The_Unicorn.png",
+        "text": "(First Print): If this card is sacrificed or destroyed, you may DESTROY a Unicorn",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Puppicorn",
+        "img": "Puppicorn.png",
+        "text": "(First Print): At the end of your turn, move Puppicorn to the Stable of the player on your left. This card cannot be sacrificed or destroyed.(Second Print): Each time any player begins their turn, move this card to that player's Stable. This card cannot be sacrificed or destroyed.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Rainbow Unicorn",
+        "img": "Rainbow_Unicorn.png",
+        "text": "(First Print): When this card enters your Stable, you may also bring a Basic Unicorn directly into your Stable from your hand.(Second Print): When this card enters your Stable, you may bring a Basic Unicorn card from your hand directly into your Stable.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Zombie Unicorn",
+        "img": "Zombie_Unicorn.png",
+        "text": "(First Print): When this card enters your Stable, you may also bring a Basic Unicorn directly into your Stable from your hand.(Second Print): When this card enters your Stable, you may bring a Basic Unicorn card from your hand directly into your Stable.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base, Rainbow Apocalypse, Apocalypse"
+    },
+    {
+        "name": "Extremely Destructive Unicorn",
+        "img": "Extremely_Destructive_Unicorn.png",
+        "text": "(First Print): When this card enters your Stable, each player must SACRIFICE a Unicorn.(Second Print): When this card enters your Stable, each player must SACRIFICE a Unicorn card.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base, Apocalypse, Rainbow Apocalypse"
+    },
+    {
+        "name": "Chainsaw Unicorn",
+        "img": "Chainsaw_Unicorn.png",
+        "text": "(First Print): When this card enters your Stable, you may SACRIFICE or DESTROY an Upgrade or Downgrade card.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Llamacorn",
+        "img": "Llamacorn.png",
+        "text": "(First Print): When this card enters your Stable, each player must DISCARD a card. Shuffle the discard pile back into the deck.(Second Print): When this card enters your Stable, each player must DISCARD a card. Shuffle the discard pile into the deck.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base, Rainbow Apocalypse, Apocalypse"
+    },
+    {
+        "name": "Americorn",
+        "img": "Americorn.png",
+        "text": "(First Print): When this card enters your Stable, you may take a card at random from any player's hand and add it to your hand.(Second Print): When this card enters your Stable, choose any player. Pull a card from that player's hand.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Ginormous Unicorn",
+        "img": "Ginormous_Unicorn.png",
+        "text": "(First Print): This card counts for two Unicorns in your Stable. As long as this card is in your Stable, you cannot play any Instant cards.(Second Print): This card counts for 2 Unicorns. You cannot play any Instant cards.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Seductive Unicorn",
+        "img": "Seductive_Unicorn.png",
+        "text": "(First Print): When this card enters your Stable, you may move a Unicorn from any player’s Stable to your Stable. If this card leaves your Stable, move the Unicorn back to its First Stable.(Second Print): When this card enters your Stable, STEAL a Unicorn card. If this card leaves your Stable, return that Unicorn card to the Stable from which you stole it.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Angel Unicorn",
+        "img": "Angel_Unicorn.png",
+        "text": "(First Print): If this card is in your Stable at the beginning of your turn, you may SACRIFICE it. If you do, choose a Unicorn from the discard pile and bring it directly into your Stable.(Second Print): If this card is in your Stable at the beginning of your turn, you may SACRIFICE this card. If you do, choose a Unicorn card from the discard pile and bring it directly into your Stable.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base, Rainbow Apocalypse, Apocalypse"
+    },
+    {
+        "name": "Queen Bee Unicorn",
+        "img": "Queen_Bee_Unicorn.png",
+        "text": "(First Print): As long as this card is in your Stable, no other player can play Basic Unicorns.(Second Print): Basic Unicorn cards cannot enter any other player’s Stable.",
+        "type": "Magical Unicorn",
+        "quantity": "Base",
+        "deck": "1"
+    },
+    {
+        "name": "Greedy Flying Unicorn",
+        "img": "Greedy_Flying_Unicorn.png",
+        "text": "(First Print): When this card enters your Stable, DRAW a card. If this card is sacrificed or destroyed, return it to your hand.(Second Print): When this card enters your Stable, DRAW a card. If this card would be sacrificed or destroyed, return it to your hand instead.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Annoying Flying Unicorn",
+        "img": "Annoying_Flying_Unicorn.png",
+        "text": "(First Print): When this card enters your Stable, you may choose any player. That player must DISCARD a card. If this card is sacrificed or destroyed, return it to your hand.(Second Print): When this card enters your Stable, you may choose any player. That player must DISCARD a card. If this card would be sacrificed or destroyed, return it to your hand instead.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Magical Flying Unicorn",
+        "img": "Magical_Flying_Unicorn.png",
+        "text": "(First Print): When this card enters your Stable, you may choose a Magic card from the discard pile and add it to your hand. If this card is sacrificed or destroyed, return it to your hand.(Second Print): When this card enters your Stable, you may choose a Magic card from the discard pile and add it to your hand. If this card would be sacrificed or destroyed, return it to your hand instead.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Swift Flying Unicorn",
+        "img": "Swift_Flying_Unicorn.png",
+        "text": "(First Print): When this card enters your Stable, you may choose an Instant card from the discard pile and add it to your hand. If this card is sacrificed or destroyed, return it to your hand.(Second Print): When this card enters your Stable, you may choose an Instant card from the discard pile and add it to your hand. If this card would be sacrificed or destroyed, return it to your hand instead.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Majestic Flying Unicorn",
+        "img": "Majestic_Flying_Unicorn.png",
+        "text": "(First Print): When this card enters your Stable, you may choose a Unicorn from the discard pile and add it to your hand. If this card is sacrificed or destroyed, return it to your hand. (Second Print): When this card enters your Stable, you may choose a Unicorn card from the discard pile and add it to your hand. If this card would be sacrificed or destroyed, return it to your hand instead.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Unicorn Phoenix",
+        "img": "Unicorn_Phoenix.png",
+        "text": "(First Print): When this card enters your Stable, DISCARD a card. If this card is sacrificed or destroyed, bring it directly back into your Stable. If you are unable to DISCARD a card, this card is destroyed.(Second Print): When this card enters your Stable, DISCARD a card. If this card is sacrificed or destroyed, bring it directly back into your Stable if you have at least 1 card in your hand",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base, Rainbow Apocalypse, Apocalypse"
+    },
+    {
+        "name": "Unicorn On The Cob",
+        "img": "Unicorn_On_The_Cob.png",
+        "text": "(First Print): When this card enters your Stable, DRAW two cards then DISCARD a card.(Second Print): When this card enters your Stable, DRAW 2 cards and DISCARD a card.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Black Knight Unicorn",
+        "img": "Black_Knight_Unicorn.png",
+        "text": "(First Print): If one of your Unicorns would be destroyed, you may SACRIFICE this card instead.(Second Print): If 1 of your Unicorn cards would be destroyed, you may SACRIFICE this card instead.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Shark With A Horn",
+        "img": "Shark_With_A_Horn.png",
+        "text": "(First Print): When this card enters your Stable, you may DESTROY a Unicorn. If you do, SACRIFICE this card.(Second Print): When this card enters your Stable, you may SACRIFICE this card. If you do, DESTROY a Unicorn card.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Shabby The Narwhal",
+        "img": "Shabby_The_Narwhal.png",
+        "text": "(First Print): When this card enters your Stable, you may search the deck for a Downgrade card. Add it to your hand, then shuffle the deck.(Second Print): When this card enters your Stable, you may search the deck for a Downgrade card and add it to your hand. Shuffle the deck.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Narwhal Torpedo",
+        "img": "Narwhal_Torpedo.png",
+        "text": "(First Print): When this card enters your Stable, SACRIFICE all Downgrade cards from your Stable.(Second Print): When this card enters your Stable, SACRIFICE all Downgrade cards.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Alluring Narwhal",
+        "img": "Alluring_Narwhal.png",
+        "text": "(First Print): When this card enters your Stable, you may move an Upgrade card from any player's Stable to your Stable.(Second Print): When this card enters your Stable, you may STEAL an Upgrade card.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Mermaid Unicorn",
+        "img": "Mermaid_Unicorn.png",
+        "text": "(First Print): When this card enters your Stable, you may return a card in any player's Stable to that player's hand.(Second Print): When this card enters your Stable, you may choose any player. Return a card in that player's Stable to their hand.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Classy Narwhal",
+        "img": "Classy_Narwhal.png",
+        "text": "(First Print): When this card enters your Stable, you may search the deck for an Upgrade card. Add it to your hand, then shuffle the deck.(Second Print): When this card enters your Stable, you may search the deck for an Upgrade card and add it to your hand. Shuffle the deck.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "The Great Narwhal",
+        "img": "The_Great_Narwhal.png",
+        "text": "(First Print): When this card enters your Stable, you may search the deck for a card with “Narwhal\" in its name. Add it to your hand, then shuffle the deck.(Second Print): When this card enters your Stable, you may search the deck for a card with “Narwhal\" in its name and add it to your hand. Shuffle the deck.",
+        "type": "Magical Unicorn",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Unicorn Poison",
+        "img": "Unicorn_Poison.png",
+        "text": "(First Print): DESTROY a Unicorn.(Second Print): DESTROY a Unicorn card.",
+        "type": "Magic",
+        "quantity": "3",
+        "deck": "Base"
+    },
+    {
+        "name": "Back Kick",
+        "img": "Back_Kick.png",
+        "text": "(First Print): Return a card in any player's Stable to that player's hand. That player must then DISCARD a card.(Second Print): Choose any player. Return a card in that player's Stable to their hand. That player must DISCARD a card.",
+        "type": "Magic",
+        "quantity": "3",
+        "deck": "Base"
+    },
+    {
+        "name": "Change Of Luck",
+        "img": "Change_Of_Luck.png",
+        "text": "(First Print): DRAW two cards, DISCARD three cards, then take another turn.(Second Print): DRAW 2 cards and DISCARD 3 cards, then take another turn.",
+        "type": "Magic",
+        "quantity": "2",
+        "deck": "Base"
+    },
+    {
+        "name": "Glitter Tornado",
+        "img": "Glitter_Tornado.png",
+        "text": "(First Print): Return a card in each player's Stable to that player's hand.",
+        "type": "Magic",
+        "quantity": "2",
+        "deck": "Base"
+    },
+    {
+        "name": "Unicorn Swap",
+        "img": "Unicorn_Swap.png",
+        "text": "(First Print): Trade a Unicorn in your Stable for a Unicorn in any player's Stable.(Second Print): Move a Unicorn in your Stable to any other player's Stable, then STEAL a Unicorn card from that player's Stable.",
+        "type": "Magic",
+        "quantity": "2",
+        "deck": "Base"
+    },
+    {
+        "name": "Re-Target",
+        "img": "Re-Target.png",
+        "text": "(First Print): Move an Upgrade or Downgrade card from any player's Stable to another player's Stable.(Second Print): Move an Upgrade or Downgrade card from any player's Stable to any other player's Stable.",
+        "type": "Magic",
+        "quantity": "2",
+        "deck": "Base"
+    },
+    {
+        "name": "Unfair Bargain",
+        "img": "Unfair_Bargain.png",
+        "text": "(First Print): Trade hands with any player.(Second Print): Trade hands with any other player.",
+        "type": "Magic",
+        "quantity": "2",
+        "deck": "Base"
+    },
+    {
+        "name": "Two-For-One",
+        "img": "Two-For-One.png",
+        "text": "(First Print): SACRIFICE a card, then DESTROY two cards.(Second Print): SACRIFICE a card, then DESTROY 2 cards.",
+        "type": "Magic",
+        "quantity": "2",
+        "deck": "Base"
+    },
+    {
+        "name": "Unicorn Shrinkray",
+        "img": "Unicorn_Shrinkray.png",
+        "text": "(First Print): Replace all Unicorns in any player's Stable with Baby Unicorns from the Nursery. All of the replaced Unicorns go to the Discard pile.(Second Print): Choose any player. Move all of that player's Unicorn Cards to the discard pile without triggering any of their effects, then bring the same number of Baby Unicorn cards from the Nursery directly into that player's Stable.",
+        "type": "Magic",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Targeted Destruction",
+        "img": "Targeted_Destruction.png",
+        "text": "(First Print): SACRIFICE or DESTROY an Upgrade or Downgrade card.",
+        "type": "Magic",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Mystical Vortex",
+        "img": "Mystical_Vortex.png",
+        "text": "(First Print): Each player must DISCARD a card. Shuffle the discard pile back into the deck.",
+        "type": "Magic",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Good Deal",
+        "img": "Good_Deal.png",
+        "text": "(First Print): DRAW three cards, then DISCARD a card.(Second Print): DRAW 3 cards and DISCARD a card.",
+        "type": "Magic",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Shake Up",
+        "img": "Shake_Up.png",
+        "text": "(First Print): Shuffle this card, and the discard pile back into the deck, then DRAW five cards.(Second Print): Shuffle this card, your hand, and the discard pile into the deck. DRAW 5 cards.",
+        "type": "Magic",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Blatant Thievery",
+        "img": "Blatant_Thievery.png",
+        "text": "(First Print): Look at any player's hand. Take a card of your choice and add it to your hand.(Second Print): Choose any player and look at that player's hand. Choose a card from that player's hand and add it to your hand.",
+        "type": "Magic",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Reset Button",
+        "img": "Reset_Button.png",
+        "text": "(First Print): Each player must SACRIFICE all of their Upgrade and Downgrade cards. Shuffle the discard pile back into the deck.(Second Print): Each player must SACRIFICE all Upgrade and Downgrade cards. Shuffle the discard pile into the deck.",
+        "type": "Magic",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Rainbow Mane",
+        "img": "Rainbow_Mane.png",
+        "text": "(First Print): You must have Basic Unicorn in your Stable in order to play this card. If this card is in your Stable at the beginning or your turn, you may bring a Basic Unicorn from your hand directly into your Stable.(Second Print): This card can only enter a Stable if there is a Basic Unicorn card in that Stable. If this card is in your Stable at the beginning of your turn, you may bring a Basic Unicorn card from your hand directly into your Stable.",
+        "type": "Upgrade",
+        "quantity": "3",
+        "deck": "Base"
+    },
+    {
+        "name": "Extra Tail",
+        "img": "Extra_Tail.png",
+        "text": "(First Print): You must have a Basic Unicorn in your Stable in order to play this card. If this card is in your Stable at the beginning of your turn, you may DRAW an extra card.(Second Print): This card can only enter a Stable if there is a Basic Unicorn card in that Stable. If this card is in your Stable at the beginning of your turn, you may DRAW an extra card.",
+        "type": "Upgrade",
+        "quantity": "3",
+        "deck": "Base"
+    },
+    {
+        "name": "Glitter Bomb",
+        "img": "Glitter_Bomb.png",
+        "text": "(First Print): If this card is in your Stable at the beginning of your turn, you may SACRIFICE a card, then DESTROY a card.(Second Print): If this card is in your Stable at the beginning of your turn, you may SACRIFICE a card. If you do, DESTROY a card.",
+        "type": "Upgrade",
+        "quantity": "2",
+        "deck": "Base"
+    },
+    {
+        "name": "Yay",
+        "img": "Yay.png",
+        "text": "(First Print): As long as this card is in your Stable, cards you play cannot be Neigh’d.(Second Print): Cards you play cannot be Neigh’d.",
+        "type": "Upgrade",
+        "quantity": "2",
+        "deck": "Base"
+    },
+    {
+        "name": "Unicorn Lasso",
+        "img": "Unicorn_Lasso.png",
+        "text": "(First Print): if this card is in your Stable at the beginning of your turn, you may move a Unicorn from any player's Stable to your Stable. At the end of your turn, move the Unicorn to its First Stable.(Second Print): If this card was in your Stable at the beginning of your turn, you may STEAL a Unicorn card. At the end of your turn, return that Unicorn card to the Stable from which you stole it.",
+        "type": "Upgrade",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Rainbow Aura",
+        "img": "Rainbow_Aura.png",
+        "text": "(First Print): As long as this card is in your Stable, your Unicorns cannot be destroyed.(Second Print): Your Unicorns cannot be destroyed.",
+        "type": "Upgrade",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Double Dutch",
+        "img": "Double_Dutch.png",
+        "text": "(First Print): If this card is in your Stable at the beginning of your turn, you may play two cards during your turn instead of one.(Second Print): If this card is in your Stable at the beginning of your turn, you may play 2 cards during your Action phase.",
+        "type": "Upgrade",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Summoning Ritual",
+        "img": "Summoning_Ritual.png",
+        "text": "(First Print): If this card is in your Stable at the beginning of your turn, you may DISCARD two Unicorns, then bring a Unicorn directly into your Stable from the discard pile.(Second Print): If this card is in your Stable at the beginning of your turn, you may DISCARD 2 Unicorn cards. If you do, bring a Unicorn card directly from the discard pile into your Stable.",
+        "type": "Upgrade",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Barbed Wire",
+        "img": "Barbed_Wire.png",
+        "text": "(First Print): As long as this card is in your Stable, you must DISCARD a card each time a Unicorn enters or leaves your Stable.(Second Print): Each time a Unicorn card enters or leaves your stable, DISCARD a card.",
+        "type": "Downgrade",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Sadistic Ritual",
+        "img": "Sadistic_Ritual.png",
+        "text": "(First Print): If this card is in your Stable at the beginning of your turn, SACRIFICE a Unicorn, then DRAW an extra card.(Second Print): If this card is in your Stable at the beginning of your turn, SACRIFICE a Unicorn card, then DRAW a card.",
+        "type": "Downgrade",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Slowdown",
+        "img": "Slowdown.png",
+        "text": "(First Print): As long as this card is in your Stable, you cannot play Instant cards.(Second Print): You cannot play Instant cards.",
+        "type": "Downgrade",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Nanny Cam",
+        "img": "Nanny_Cam.png",
+        "text": "(First Print): As long as this card is in your Stable, you must play with your hand visible to all players.(Second Print): Your hand must be visible to all players at all times.",
+        "type": "Downgrade",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Broken Stable",
+        "img": "Broken_Stable.png",
+        "text": "(First Print): As long as this card is in your Stable, you cannot play Upgrade cards.(Second Print): You cannot play Upgrade cards.",
+        "type": "Downgrade",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Blinding Light",
+        "img": "Blinding_Light.png",
+        "text": "(First Print): As long as this card is in your Stable, your Unicorn card effects cannot be activated.(Second Print): Triggered effects of your Unicorn cards do not activate.",
+        "type": "Downgrade",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Neigh",
+        "img": "Neigh.png",
+        "text": "(First Print): Play this card when any player tries to play a card. Stop that player's card from coming into play and sent it to the discard pile instead.(Second Print): Play this card when any other player tries to play a card. Stop that player's card from being played and sent it to the discard pile.",
+        "type": "Instant",
+        "quantity": "14",
+        "deck": "Base"
+    },
+    {
+        "name": "Super Neigh",
+        "img": "Super_Neigh.png",
+        "text": "(First Print): Play this card when any player tries to play a card. Stop any player's card from coming into play and send it to the discard pile instead. This card cannot be Neigh’d.(Second Print): Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile. This card cannot be Neigh’d.",
+        "type": "Instant",
+        "quantity": "1",
+        "deck": "Base"
+    },
+    {
+        "name": "Rules Reference Card",
+        "img": "Rules_Reference_Card.png",
+        "text": "8",
+        "type": "Base",
+        "quantity": "8",
+        "deck": "Control, Chaos"
+    }
+]

@@ -2,8 +2,7 @@ import React from "react";
 import "./App.css";
 import cardData from "../../data.json";
 import UnicornCard from "../UnicornCard/UnicornCard";
-import "semantic-ui-css/semantic.min.css";
-import { Grid, Container, Input } from "semantic-ui-react";
+import { Grid, Container, TextInput } from "@mantine/core";
 import Fuse from "fuse.js";
 
 class App extends React.Component {
@@ -25,20 +24,17 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <Container>
-          <Input
-            fluid
-            icon="search"
-            onChange={this.handleSearchChange}
+        <Container size="xl">
+          <TextInput
             placeholder="Search..."
+            onChange={this.handleSearchChange}
+            mb="xl"
           />
-          <br />
-          <br />
-          <Grid stackable columns={4}>
+          <Grid>
             {this.state.items.map((object, i) => (
-              <Grid.Column>
-                <UnicornCard {...object} key={i}></UnicornCard>
-              </Grid.Column>
+              <Grid.Col span={{ base: 12, sm: 6, md: 4, lg: 3 }} key={i}>
+                <UnicornCard {...object}></UnicornCard>
+              </Grid.Col>
             ))}
           </Grid>
         </Container>
